@@ -9,6 +9,7 @@ body{
     height: 70px;
 }
 #brand{
+    position:sticky;
     width: 40%;
     float: left;
     color: cornsilk;
@@ -80,6 +81,7 @@ img{
     margin: 10px auto;
 }
 #footer{
+    position:sticky;
     background-color: black;
     color: white;
     text-align: center;
